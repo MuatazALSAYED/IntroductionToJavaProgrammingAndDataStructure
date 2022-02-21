@@ -1,6 +1,6 @@
 package chapter1.listing;
 //LISTING 1.1
-public class Welcom {
+public class Welcome {
 
     public static void main(String[] args) {
 
